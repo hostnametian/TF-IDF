@@ -124,6 +124,12 @@ D1_J = set(D1_vector)
 D2_J = set(D2_vector)
 D3_J = set(D3_vector)
 
+# print(Q_J)
+# print(D1_J)
+# print(D2_J)
+# print(D3_J)
+# print(len(Q_J & D1_J))
+
 
 j1=(len(Q_J & D1_J))/(len(Q_J) + len(D1_J)-len(Q_J & D1_J))
 j2=(len(Q_J & D2_J))/(len(Q_J) + len(D2_J)-len(Q_J & D2_J))
