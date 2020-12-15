@@ -4,5 +4,5 @@
 
 2.Code implementations of cosine similarity, Euclidean distance, Jaccard similarity and vector inner product to find out which one is more suitable for our task.
 
-3For more details, please see the report at：https://docs.google.com/document/d/1u7tIvBM7fquGNYWG8Sz2Jl1HQRBdWDqSyszyWkbQXx8/edit?usp=sharing
+3.For more details, please see the report at：https://docs.google.com/document/d/1u7tIvBM7fquGNYWG8Sz2Jl1HQRBdWDqSyszyWkbQXx8/edit?usp=sharing
 
